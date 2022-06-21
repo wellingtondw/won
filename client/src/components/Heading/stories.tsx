@@ -17,3 +17,9 @@ Default.args = {
   children: 'Most Populars',
   color: 'black'
 }
+
+Default.parameters = {
+  backgrounds: {
+    default: 'dark'
+  }
+}
